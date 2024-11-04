@@ -1,0 +1,12 @@
+# ninja log v6
+4	740	7517896385107366	simpletextviewer_autogen/timestamp	fdaa9da53930d51c
+777	2878	7517896386373328	CMakeFiles/simpletextviewer.dir/mainwindow.cpp.obj	eecc45ba608b350e
+4	740	7517896385107366	simpletextviewer_autogen/mocs_compilation.cpp	fdaa9da53930d51c
+4	740	7517896385107366	E:/QT/Examples/Qt-6.7.2/assistant/simpletextviewer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/simpletextviewer_autogen/mocs_compilation.cpp	fdaa9da53930d51c
+746	2730	7517896386062138	CMakeFiles/simpletextviewer.dir/simpletextviewer_autogen/mocs_compilation.cpp.obj	56ac3300e9e360a
+4	740	7517896385107366	E:/QT/Examples/Qt-6.7.2/assistant/simpletextviewer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/simpletextviewer_autogen/timestamp	fdaa9da53930d51c
+769	2574	7517896386231514	CMakeFiles/simpletextviewer.dir/main.cpp.obj	fd0de7a4c39e2f0
+784	2902	7517896386433397	CMakeFiles/simpletextviewer.dir/textedit.cpp.obj	1c911a6c6e7efa66
+754	2989	7517896386075279	CMakeFiles/simpletextviewer.dir/assistant.cpp.obj	d62aff78280856e
+762	3387	7517896386075279	CMakeFiles/simpletextviewer.dir/findfiledialog.cpp.obj	c8a58a7306103fb2
+3387	3716	7517896412472765	simpletextviewer.exe	82ea4b2796c91896
